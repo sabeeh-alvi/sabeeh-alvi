@@ -41,4 +41,48 @@ My portfolio combines technical documentation, Python code, automated testing, i
 - IAM and security documentation.
 - Automated unit tests and GitHub Actions workflow.
 
-[View Repository →](https://github.com/s
+[View Repository →](https://github.com/sabeeh-alvi/aws-serverless-file-processing)
+
+### 3. AWS Database Migration and Modernization
+
+**Focus:** Migration planning, data integrity, and validation automation.
+
+- Proposed AWS DMS source-to-target migration architecture.
+- Python CSV validation script for comparing source and target records.
+- Synthetic datasets containing an intentional data discrepancy.
+- Seven automated unit tests covering matching records, changed fields, missing records, extra records, duplicate IDs, missing required headers, and empty CSV files.
+- GitHub Actions workflow for automated testing and discrepancy detection.
+- Documentation covering migration prerequisites, security, troubleshooting, and validation.
+
+[View Repository →](https://github.com/sabeeh-alvi/aws-database-migration)
+
+## 🧰 Tools & Technologies
+
+- **Cloud:** Amazon Web Services (AWS)
+- **Infrastructure as Code:** AWS CloudFormation
+- **Programming:** Python
+- **Testing:** Python `unittest`
+- **Continuous Integration:** GitHub Actions
+- **Version Control:** Git and GitHub
+- **Data Handling:** CSV and SQL fundamentals
+
+## 🎯 Current Goals
+
+- Strengthen practical AWS cloud engineering skills.
+- Build and document portfolio-ready cloud projects.
+- Improve infrastructure automation and troubleshooting.
+- Develop secure, scalable, and reliable cloud architectures.
+- Expand automated testing and data validation skills.
+- Prepare for entry-level cloud and cloud support opportunities.
+
+## 📌 Project Status
+
+These repositories represent my learning and portfolio work. Automated tests run through GitHub Actions where configured. The infrastructure and migration projects include proposed designs and documentation; live AWS deployments or migrations are not claimed unless explicitly documented as completed and verified.
+
+## 📫 Connect With Me
+
+- **GitHub:** [sabeeh-alvi](https://github.com/sabeeh-alvi)
+
+---
+
+⭐ Thanks for visiting my profile!
