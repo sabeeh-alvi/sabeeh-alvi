@@ -2,6 +2,8 @@
 
 ☁️ **AWS re/Start | Cloud Computing | Infrastructure & Networking**
 
+[![Python Unit Tests](https://github.com/sabeeh-alvi/aws-serverless-file-processing/actions/workflows/python-tests.yml/badge.svg)](https://github.com/sabeeh-alvi/aws-serverless-file-processing/actions/workflows/python-tests.yml)
+
 I'm building practical cloud computing skills through AWS re/Start labs and hands-on technical exercises. My learning focuses on AWS infrastructure, networking, storage, databases, automation, security, and troubleshooting.
 
 ## 🛠️ Technical Skills
